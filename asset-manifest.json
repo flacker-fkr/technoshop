@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/technoshop/static/css/main.e6c13ad2.css",
-    "main.js": "/technoshop/static/js/main.f55c7be5.js",
-    "static/js/453.a8536d47.chunk.js": "/technoshop/static/js/453.a8536d47.chunk.js",
-    "index.html": "/technoshop/index.html",
-    "main.e6c13ad2.css.map": "/technoshop/static/css/main.e6c13ad2.css.map",
-    "main.f55c7be5.js.map": "/technoshop/static/js/main.f55c7be5.js.map",
-    "453.a8536d47.chunk.js.map": "/technoshop/static/js/453.a8536d47.chunk.js.map"
+    "main.css": "/[https://flacker-fkr.github.io/technoshop](https://flacker-fkr.github.io/technoshop)/static/css/main.e6c13ad2.css",
+    "main.js": "/[https://flacker-fkr.github.io/technoshop](https://flacker-fkr.github.io/technoshop)/static/js/main.8b54d952.js",
+    "static/js/453.a8536d47.chunk.js": "/[https://flacker-fkr.github.io/technoshop](https://flacker-fkr.github.io/technoshop)/static/js/453.a8536d47.chunk.js",
+    "index.html": "/[https://flacker-fkr.github.io/technoshop](https://flacker-fkr.github.io/technoshop)/index.html",
+    "main.e6c13ad2.css.map": "/[https://flacker-fkr.github.io/technoshop](https://flacker-fkr.github.io/technoshop)/static/css/main.e6c13ad2.css.map",
+    "main.8b54d952.js.map": "/[https://flacker-fkr.github.io/technoshop](https://flacker-fkr.github.io/technoshop)/static/js/main.8b54d952.js.map",
+    "453.a8536d47.chunk.js.map": "/[https://flacker-fkr.github.io/technoshop](https://flacker-fkr.github.io/technoshop)/static/js/453.a8536d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f55c7be5.js"
+    "static/js/main.8b54d952.js"
   ]
 }
